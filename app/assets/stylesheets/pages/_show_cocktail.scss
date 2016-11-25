@@ -1,0 +1,42 @@
+.btn-delete {
+  margin-left: 5px;
+  color: white;
+  padding: 1px 3px;
+  border-radius: 4px;
+  font-weight: bold;
+  background: #D44950;
+  transition: background 0.3s ease;
+  font-weight: normal;
+}
+.btn-delete:hover {
+  opacity: 1;
+  background: #C9302C;
+  text-decoration: none;
+  color: white;
+}
+
+.ingredients-list {
+  li {
+    margin: 5px 0px;
+  }
+}
+
+.btn-add_ingredient {
+  margin-top: 15px;
+  margin-left: 15px;
+}
+
+.btn-treehouse {
+  color: white;
+  padding: 8px 12px;
+  border-radius: 4px;
+  font-weight: bold;
+  background: #6AD58B;
+  transition: background 0.3s ease;
+}
+.btn-treehouse:hover {
+  opacity: 1;
+  background: #3ac162;
+  text-decoration: none;
+  color: white;
+}
